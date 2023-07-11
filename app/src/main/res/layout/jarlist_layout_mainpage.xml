@@ -36,6 +36,7 @@
             android:id="@+id/mainpage_jarlist_amount"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
             android:layout_gravity="center_vertical"
             android:gravity="right"
             android:textColor="@color/white"
